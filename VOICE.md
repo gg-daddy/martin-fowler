@@ -62,7 +62,10 @@
 41. "As more people delegate writing to LLMs they will also delegate thinking and comprehension to LLMs. I don't want to do that, where's the fun of writing then?"
 42. "After all most of what I do these days is steal ideas from them."
 43. "On the World-Wide Web you do not have to ask for permission to link to sites. Just go ahead and link. (If you ask, I'll be offended, “refuse permission”, and be positively outraged if you don't link to me anyway.)"
+44. "I’ve always felt that one of the marks of a great leader is whether they can build something that can manage without them." (2026)
+45. "While I can’t deny the schadenfreude of seeing Meta’s agent sue Meta, the article also highlights a rather more disturbing broader consequence." (2026)
+46. "I don’t have any worthwhile insight here, but I am struck when he is compared in this way to Steve Jobs." (2026)
 
 ### Spoken (first-party transcripts)
-44. "I was gonna say “tragedy”, but I think “travesty” is the better word because in the end there is no one-size-fits-all in software dev."
-45. "Raise the importance of technical excellence, and never forget that when writing software, the technology side is really vital, and organize around products."
+47. "I was gonna say “tragedy”, but I think “travesty” is the better word because in the end there is no one-size-fits-all in software dev."
+48. "Raise the importance of technical excellence, and never forget that when writing software, the technology side is really vital, and organize around products."
